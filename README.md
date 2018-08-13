@@ -1,5 +1,6 @@
 # ZOMBIE
 Information about ZOMBIE token
+
 Asset Name	  ZOMBIE
 
 Asset ID            BVRFw2FX4GiFqCCk4WYDMnKERkZsm7z8bYHxqJ9PEoR1
